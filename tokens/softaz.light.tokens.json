@@ -1,0 +1,780 @@
+{
+  "color": {
+    "text": {
+      "default": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0588,
+            0.1176,
+            0.2
+          ],
+          "alpha": 1,
+          "hex": "#0f1e33"
+        },
+        "$description": "Chữ chính (CSS --ink)"
+      },
+      "muted": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.2941,
+            0.3569,
+            0.4392
+          ],
+          "alpha": 1,
+          "hex": "#4b5b70"
+        },
+        "$description": "Chữ phụ, chú thích (CSS --soft)"
+      },
+      "link": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0,
+            0.3412,
+            0.6392
+          ],
+          "alpha": 1,
+          "hex": "#0057a3"
+        },
+        "$description": "Liên kết (CSS --link)"
+      },
+      "on-accent": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "alpha": 1,
+          "hex": "#ffffff"
+        },
+        "$description": "Chữ trên nền màu phần mềm (CSS --on-acc)"
+      },
+      "on-dark": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "alpha": 1,
+          "hex": "#ffffff"
+        },
+        "$description": "Chữ trên nền tối cố định (chân trang)"
+      },
+      "on-dark-muted": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.7176,
+            0.7647,
+            0.8196
+          ],
+          "alpha": 1,
+          "hex": "#b7c3d1"
+        },
+        "$description": "Chữ phụ trên nền tối cố định"
+      }
+    },
+    "bg": {
+      "page": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.9569,
+            0.9686,
+            0.9843
+          ],
+          "alpha": 1,
+          "hex": "#f4f7fb"
+        },
+        "$description": "Nền trang (CSS --paper)"
+      },
+      "surface": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "alpha": 1,
+          "hex": "#ffffff"
+        },
+        "$description": "Nền thẻ, khối (CSS --sheet)"
+      },
+      "surface-2": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.9333,
+            0.9529,
+            0.9765
+          ],
+          "alpha": 1,
+          "hex": "#eef3f9"
+        },
+        "$description": "Nền khối phụ, ô nhập (CSS --sheet2)"
+      },
+      "wash-blue": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.902,
+            0.9412,
+            0.9804
+          ],
+          "alpha": 1,
+          "hex": "#e6f0fa"
+        },
+        "$description": "Nền nhấn xanh dương nhạt (CSS --wash)"
+      },
+      "wash-green": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.8902,
+            0.9647,
+            0.9255
+          ],
+          "alpha": 1,
+          "hex": "#e3f6ec"
+        },
+        "$description": "Nền nhấn xanh lá nhạt (CSS --washg)"
+      },
+      "footer": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0588,
+            0.1176,
+            0.2
+          ],
+          "alpha": 1,
+          "hex": "#0f1e33"
+        },
+        "$description": "Nền chân trang (CSS --foot)"
+      }
+    },
+    "border": {
+      "default": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.8392,
+            0.8706,
+            0.9098
+          ],
+          "alpha": 1,
+          "hex": "#d6dee8"
+        },
+        "$description": "Viền, đường kẻ (CSS --rule)"
+      },
+      "strong": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.7176,
+            0.7647,
+            0.8196
+          ],
+          "alpha": 1,
+          "hex": "#b7c3d1"
+        },
+        "$description": "Viền đậm, viền ô nhập (CSS --rule2)"
+      }
+    },
+    "brand": {
+      "primary": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0,
+            0.3725,
+            0.6902
+          ],
+          "alpha": 1,
+          "hex": "#005fb0"
+        },
+        "$description": "Nút chính, điểm nhấn (CSS --primary)"
+      },
+      "on-primary": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "alpha": 1,
+          "hex": "#ffffff"
+        },
+        "$description": "Chữ trên nút chính (CSS --on-primary)"
+      }
+    },
+    "status": {
+      "ok": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0314,
+            0.4784,
+            0.251
+          ],
+          "alpha": 1,
+          "hex": "#087a40"
+        },
+        "$description": "Thành công, đã có (CSS --ok)"
+      },
+      "warn": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.5608,
+            0.3294,
+            0.0
+          ],
+          "alpha": 1,
+          "hex": "#8f5400"
+        },
+        "$description": "Lưu ý, chờ (CSS --warn)"
+      },
+      "warn-bg": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.9922,
+            0.9451,
+            0.8627
+          ],
+          "alpha": 1,
+          "hex": "#fdf1dc"
+        },
+        "$description": "Nền nhãn lưu ý (CSS --warnbg)"
+      },
+      "danger": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.7765,
+            0.1843,
+            0.2118
+          ],
+          "alpha": 1,
+          "hex": "#c62f36"
+        },
+        "$description": "Lỗi (CSS --danger)"
+      },
+      "danger-bg": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            1.0,
+            0.9569,
+            0.9569
+          ],
+          "alpha": 1,
+          "hex": "#fff4f4"
+        },
+        "$description": "Nền báo lỗi (CSS --dangerbg)"
+      }
+    },
+    "diagram": {
+      "arrow": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.4902,
+            0.5529,
+            0.6392
+          ],
+          "alpha": 1,
+          "hex": "#7d8da3"
+        },
+        "$description": "Mũi tên, đường nối sơ đồ (CSS --arrow)"
+      }
+    },
+    "product": {
+      "taxaz": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0,
+            0.3725,
+            0.6902
+          ],
+          "alpha": 1,
+          "hex": "#005fb0"
+        },
+        "$description": "Màu TaxAZ (CSS --tax)"
+      },
+      "crmaz": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0235,
+            0.5647,
+            0.5882
+          ],
+          "alpha": 1,
+          "hex": "#069096"
+        },
+        "$description": "Màu CRMAZ (CSS --crm)"
+      },
+      "pos": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.2392,
+            0.5922,
+            0.9098
+          ],
+          "alpha": 1,
+          "hex": "#3d97e8"
+        },
+        "$description": "Màu phần mềm bán hàng (CSS --pos)"
+      },
+      "warranty": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0314,
+            0.4784,
+            0.251
+          ],
+          "alpha": 1,
+          "hex": "#087a40"
+        },
+        "$description": "Màu phần mềm bảo hành (CSS --wty)"
+      },
+      "dms": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0235,
+            0.4784,
+            0.502
+          ],
+          "alpha": 1,
+          "hex": "#067a80"
+        },
+        "$description": "Màu DMSAZ (sắp ra mắt) (CSS --dms)"
+      },
+      "erp": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0,
+            0.3412,
+            0.6392
+          ],
+          "alpha": 1,
+          "hex": "#0057a3"
+        },
+        "$description": "Màu ERPAZ (sắp ra mắt) (CSS --erp)"
+      }
+    },
+    "gradient": {
+      "hub-start": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0,
+            0.3725,
+            0.6902
+          ],
+          "alpha": 1,
+          "hex": "#005fb0"
+        },
+        "$description": "Nền trục sơ đồ «nền tảng» — điểm 1"
+      },
+      "hub-end": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0235,
+            0.4784,
+            0.502
+          ],
+          "alpha": 1,
+          "hex": "#067a80"
+        },
+        "$description": "Nền trục sơ đồ «nền tảng» — điểm 2"
+      },
+      "brand-1": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0,
+            0.4235,
+            0.7765
+          ],
+          "alpha": 1,
+          "hex": "#006cc6"
+        },
+        "$description": "Dải màu thương hiệu (xanh dương → ngọc → lá) — điểm 1"
+      },
+      "brand-2": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0235,
+            0.5647,
+            0.5882
+          ],
+          "alpha": 1,
+          "hex": "#069096"
+        },
+        "$description": "Dải màu thương hiệu (xanh dương → ngọc → lá) — điểm 2"
+      },
+      "brand-3": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0471,
+            0.7294,
+            0.3765
+          ],
+          "alpha": 1,
+          "hex": "#0cba60"
+        },
+        "$description": "Dải màu thương hiệu (xanh dương → ngọc → lá) — điểm 3"
+      }
+    },
+    "shadow": {
+      "l": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0588,
+            0.1176,
+            0.2
+          ],
+          "alpha": 0.32,
+          "hex": "#0f1e33"
+        },
+        "$description": "Màu bóng lớn"
+      },
+      "s": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0588,
+            0.1176,
+            0.2
+          ],
+          "alpha": 0.3,
+          "hex": "#0f1e33"
+        },
+        "$description": "Màu bóng nhỏ"
+      }
+    },
+    "palette": {
+      "brand-blue": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0,
+            0.4235,
+            0.7765
+          ],
+          "alpha": 1,
+          "hex": "#006cc6"
+        },
+        "$description": "Xanh dương của logo. Điểm nhấn thương hiệu, chữ lớn ; chữ thường đạt 5.3:1 trên nền trắng."
+      },
+      "brand-sky": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.2392,
+            0.5922,
+            0.9098
+          ],
+          "alpha": 1,
+          "hex": "#3d97e8"
+        },
+        "$description": "Xanh da trời — chuyển giữa xanh dương và xanh ngọc. Chỉ dùng cho mảng, biểu đồ, viền ; không dùng làm chữ trên nền sáng."
+      },
+      "brand-teal": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0235,
+            0.5647,
+            0.5882
+          ],
+          "alpha": 1,
+          "hex": "#069096"
+        },
+        "$description": "Xanh ngọc của logo. Mảng, icon, chữ ≥ 24px trên nền sáng (3.9:1) ; chữ thường dùng teal-text."
+      },
+      "brand-green": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0471,
+            0.7294,
+            0.3765
+          ],
+          "alpha": 1,
+          "hex": "#0cba60"
+        },
+        "$description": "Xanh lá của logo. Mảng, icon, dấu thành công, nền có chữ ink ; không dùng làm chữ trên nền sáng (2.6:1)."
+      },
+      "primary": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0,
+            0.3725,
+            0.6902
+          ],
+          "alpha": 1,
+          "hex": "#005fb0"
+        },
+        "$description": "Nút chính, trạng thái chọn. Chữ on-primary trên nó (6.4:1 sáng)."
+      },
+      "on-primary": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "alpha": 1,
+          "hex": "#ffffff"
+        },
+        "$description": "Chữ trên primary."
+      },
+      "link": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0,
+            0.3412,
+            0.6392
+          ],
+          "alpha": 1,
+          "hex": "#0057a3"
+        },
+        "$description": "Liên kết trong chữ (7.3:1 trên nền trắng, 7.2:1 trên paper tối)."
+      },
+      "teal-text": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0235,
+            0.4784,
+            0.502
+          ],
+          "alpha": 1,
+          "hex": "#067a80"
+        },
+        "$description": "Chữ xanh ngọc ; nút chính của CRMAZ (chữ trắng 5.1:1)."
+      },
+      "green-text": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0314,
+            0.4784,
+            0.251
+          ],
+          "alpha": 1,
+          "hex": "#087a40"
+        },
+        "$description": "Chữ / viền xanh lá : dấu «Đã ghi sổ» TaxAZ, trạng thái đạt (5.4:1 trên trắng)."
+      },
+      "ink": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0588,
+            0.1176,
+            0.2
+          ],
+          "alpha": 1,
+          "hex": "#0f1e33"
+        },
+        "$description": "Chữ chính trên paper và sheet."
+      },
+      "ink-soft": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.2941,
+            0.3569,
+            0.4392
+          ],
+          "alpha": 1,
+          "hex": "#4b5b70"
+        },
+        "$description": "Chữ phụ, chú thích (6.9:1 sáng, 8.3:1 tối)."
+      },
+      "paper": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.9569,
+            0.9686,
+            0.9843
+          ],
+          "alpha": 1,
+          "hex": "#f4f7fb"
+        },
+        "$description": "Nền trang."
+      },
+      "sheet": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "alpha": 1,
+          "hex": "#ffffff"
+        },
+        "$description": "Nền thẻ, bảng, ô nhập."
+      },
+      "rule": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.8392,
+            0.8706,
+            0.9098
+          ],
+          "alpha": 1,
+          "hex": "#d6dee8"
+        },
+        "$description": "Đường kẻ mảnh, viền thẻ."
+      },
+      "rule-strong": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.7176,
+            0.7647,
+            0.8196
+          ],
+          "alpha": 1,
+          "hex": "#b7c3d1"
+        },
+        "$description": "Viền ô nhập, nút viền."
+      },
+      "wash-blue": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.902,
+            0.9412,
+            0.9804
+          ],
+          "alpha": 1,
+          "hex": "#e6f0fa"
+        },
+        "$description": "Nền nhạt khối tóm tắt, dải đăng ký."
+      },
+      "wash-green": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.8902,
+            0.9647,
+            0.9255
+          ],
+          "alpha": 1,
+          "hex": "#e3f6ec"
+        },
+        "$description": "Nền nhạt trạng thái đạt, thẻ chọn CRMAZ."
+      },
+      "danger": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.7765,
+            0.1843,
+            0.2118
+          ],
+          "alpha": 1,
+          "hex": "#c62f36"
+        },
+        "$description": "Lỗi, ô chờ nội dung (viền nét đứt). Không phải màu thương hiệu."
+      },
+      "warn": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.5608,
+            0.3294,
+            0.0
+          ],
+          "alpha": 1,
+          "hex": "#8f5400"
+        },
+        "$description": "Cảnh báo, «đang hoàn thiện»."
+      }
+    }
+  }
+}
