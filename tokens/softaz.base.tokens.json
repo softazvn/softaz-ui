@@ -1,0 +1,348 @@
+{
+  "space": {
+    "1": {
+      "$type": "number",
+      "$value": 4,
+      "$description": "Khoảng cách 4 px"
+    },
+    "2": {
+      "$type": "number",
+      "$value": 8,
+      "$description": "Khoảng cách 8 px"
+    },
+    "3": {
+      "$type": "number",
+      "$value": 12,
+      "$description": "Khoảng cách 12 px"
+    },
+    "4": {
+      "$type": "number",
+      "$value": 16,
+      "$description": "Khoảng cách 16 px"
+    },
+    "5": {
+      "$type": "number",
+      "$value": 20,
+      "$description": "Khoảng cách 20 px"
+    },
+    "6": {
+      "$type": "number",
+      "$value": 24,
+      "$description": "Khoảng cách 24 px"
+    },
+    "8": {
+      "$type": "number",
+      "$value": 32,
+      "$description": "Khoảng cách 32 px"
+    },
+    "10": {
+      "$type": "number",
+      "$value": 40,
+      "$description": "Khoảng cách 40 px"
+    },
+    "12": {
+      "$type": "number",
+      "$value": 48,
+      "$description": "Khoảng cách 48 px"
+    },
+    "14": {
+      "$type": "number",
+      "$value": 56,
+      "$description": "Khoảng cách 56 px"
+    },
+    "16": {
+      "$type": "number",
+      "$value": 64,
+      "$description": "Khoảng cách 64 px"
+    },
+    "24": {
+      "$type": "number",
+      "$value": 96,
+      "$description": "Khoảng cách 96 px"
+    }
+  },
+  "radius": {
+    "sm": {
+      "$type": "number",
+      "$value": 4,
+      "$description": "Phiếu, mẫu biểu"
+    },
+    "md": {
+      "$type": "number",
+      "$value": 8,
+      "$description": "Ô nhỏ trong bảng"
+    },
+    "lg": {
+      "$type": "number",
+      "$value": 14,
+      "$description": "Khối màn quản trị"
+    },
+    "field": {
+      "$type": "number",
+      "$value": 18,
+      "$description": "Ô nhập, hộp chọn trên web"
+    },
+    "node": {
+      "$type": "number",
+      "$value": 22,
+      "$description": "Thẻ trong sơ đồ"
+    },
+    "card": {
+      "$type": "number",
+      "$value": 24,
+      "$description": "Thẻ thường"
+    },
+    "card-lg": {
+      "$type": "number",
+      "$value": 28,
+      "$description": "Thẻ lớn, khối giá"
+    },
+    "frame": {
+      "$type": "number",
+      "$value": 32,
+      "$description": "Khung ảnh"
+    },
+    "hero": {
+      "$type": "number",
+      "$value": 34,
+      "$description": "Khối mở đầu, khối lớn nhất"
+    },
+    "pill": {
+      "$type": "number",
+      "$value": 999,
+      "$description": "Nút, chip, nhãn (dạng viên)"
+    }
+  },
+  "font": {
+    "family": {
+      "sans": {
+        "$type": "string",
+        "$value": "Be Vietnam Pro",
+        "$description": "\"Be Vietnam Pro\", \"Segoe UI\", system-ui, sans-serif"
+      },
+      "mono": {
+        "$type": "string",
+        "$value": "JetBrains Mono",
+        "$description": "\"JetBrains Mono\", ui-monospace, Consolas, monospace"
+      }
+    },
+    "size": {
+      "hero": {
+        "$type": "number",
+        "$value": 52,
+        "$description": "Cỡ chữ hero"
+      },
+      "display": {
+        "$type": "number",
+        "$value": 48,
+        "$description": "Cỡ chữ display"
+      },
+      "h1": {
+        "$type": "number",
+        "$value": 36,
+        "$description": "Cỡ chữ h1"
+      },
+      "h2": {
+        "$type": "number",
+        "$value": 28,
+        "$description": "Cỡ chữ h2"
+      },
+      "h3": {
+        "$type": "number",
+        "$value": 18,
+        "$description": "Cỡ chữ h3"
+      },
+      "lead": {
+        "$type": "number",
+        "$value": 18,
+        "$description": "Cỡ chữ lead"
+      },
+      "body": {
+        "$type": "number",
+        "$value": 16,
+        "$description": "Cỡ chữ body"
+      },
+      "small": {
+        "$type": "number",
+        "$value": 13.5,
+        "$description": "Cỡ chữ small"
+      },
+      "caption": {
+        "$type": "number",
+        "$value": 12.5,
+        "$description": "Cỡ chữ caption"
+      },
+      "button": {
+        "$type": "number",
+        "$value": 15,
+        "$description": "Cỡ chữ button"
+      },
+      "price": {
+        "$type": "number",
+        "$value": 28,
+        "$description": "Cỡ chữ price"
+      },
+      "number": {
+        "$type": "number",
+        "$value": 14,
+        "$description": "Cỡ chữ number"
+      }
+    },
+    "line": {
+      "hero": {
+        "$type": "number",
+        "$value": 60,
+        "$description": "Dòng hero"
+      },
+      "display": {
+        "$type": "number",
+        "$value": 52,
+        "$description": "Dòng display"
+      },
+      "h1": {
+        "$type": "number",
+        "$value": 42,
+        "$description": "Dòng h1"
+      },
+      "h2": {
+        "$type": "number",
+        "$value": 34,
+        "$description": "Dòng h2"
+      },
+      "h3": {
+        "$type": "number",
+        "$value": 24,
+        "$description": "Dòng h3"
+      },
+      "lead": {
+        "$type": "number",
+        "$value": 28,
+        "$description": "Dòng lead"
+      },
+      "body": {
+        "$type": "number",
+        "$value": 26,
+        "$description": "Dòng body"
+      },
+      "small": {
+        "$type": "number",
+        "$value": 20,
+        "$description": "Dòng small"
+      },
+      "caption": {
+        "$type": "number",
+        "$value": 18,
+        "$description": "Dòng caption"
+      },
+      "button": {
+        "$type": "number",
+        "$value": 20,
+        "$description": "Dòng button"
+      },
+      "price": {
+        "$type": "number",
+        "$value": 32,
+        "$description": "Dòng price"
+      },
+      "number": {
+        "$type": "number",
+        "$value": 20,
+        "$description": "Dòng number"
+      }
+    },
+    "weight": {
+      "hero": {
+        "$type": "number",
+        "$value": 800,
+        "$description": "Độ đậm hero"
+      },
+      "display": {
+        "$type": "number",
+        "$value": 800,
+        "$description": "Độ đậm display"
+      },
+      "h1": {
+        "$type": "number",
+        "$value": 800,
+        "$description": "Độ đậm h1"
+      },
+      "h2": {
+        "$type": "number",
+        "$value": 800,
+        "$description": "Độ đậm h2"
+      },
+      "h3": {
+        "$type": "number",
+        "$value": 700,
+        "$description": "Độ đậm h3"
+      },
+      "lead": {
+        "$type": "number",
+        "$value": 400,
+        "$description": "Độ đậm lead"
+      },
+      "body": {
+        "$type": "number",
+        "$value": 400,
+        "$description": "Độ đậm body"
+      },
+      "small": {
+        "$type": "number",
+        "$value": 400,
+        "$description": "Độ đậm small"
+      },
+      "caption": {
+        "$type": "number",
+        "$value": 600,
+        "$description": "Độ đậm caption"
+      },
+      "button": {
+        "$type": "number",
+        "$value": 700,
+        "$description": "Độ đậm button"
+      },
+      "price": {
+        "$type": "number",
+        "$value": 800,
+        "$description": "Độ đậm price"
+      },
+      "number": {
+        "$type": "number",
+        "$value": 500,
+        "$description": "Độ đậm number"
+      }
+    }
+  },
+  "layout": {
+    "desktop": {
+      "$type": "number",
+      "$value": 1440,
+      "$description": "Khung máy tính"
+    },
+    "content": {
+      "$type": "number",
+      "$value": 1104,
+      "$description": "Bề rộng nội dung trên máy tính"
+    },
+    "mobile": {
+      "$type": "number",
+      "$value": 390,
+      "$description": "Khung điện thoại"
+    },
+    "mobile-gutter": {
+      "$type": "number",
+      "$value": 16,
+      "$description": "Lề hai bên trên điện thoại"
+    },
+    "tap": {
+      "$type": "number",
+      "$value": 44,
+      "$description": "Vùng bấm nhỏ nhất"
+    },
+    "button-h": {
+      "$type": "number",
+      "$value": 48,
+      "$description": "Chiều cao nút"
+    }
+  }
+}
