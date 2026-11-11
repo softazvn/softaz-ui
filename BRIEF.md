@@ -71,7 +71,7 @@ Giá đã gồm thuế GTGT ; số dưới đây SoftAZ đã chốt — **không
 
 Bấm «Đăng ký ngay» → trang Đăng ký : khối **Quy mô** hỏi đúng số lượng của phần mềm đó (bán hàng : số kho, số người dùng ; TaxAZ : số bộ sổ, số người dùng ; CRMAZ : số người dùng ; bảo hành : số người dùng, số mã / năm) — component `Register/Scale`.
 
-Giảm giá mua theo bộ (2 phần mềm khác nhau − 15 %, 3 phần mềm − 25 %, tính trên tổng đơn) : **(chờ)** — vẽ được, ghi chú «(chờ)».
+Giảm giá mua theo bộ : khách nhập **mã khuyến mãi khi đăng ký phần mềm thứ hai** (ô «Mã khuyến mãi» trên khối Đơn đăng ký) ; mức giảm (2 phần mềm − 15 %, 3 phần mềm − 25 %) **(chờ)**. CRMAZ cho chọn **kỳ trả năm / tháng** (trả tháng + 20 %). 1 kho = 1 cửa hàng.
 
 ## 6. Khung ảnh thật (thiết kế sau — vẽ khung có nhãn «Ảnh : …» + kích thước)
 
